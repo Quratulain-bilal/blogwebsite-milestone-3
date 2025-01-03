@@ -8,11 +8,7 @@ import {
   FaUtensilSpoon,
   
   FaPhone,
-<<<<<<< HEAD
-  
-=======
 
->>>>>>> cef5d2b3bc707393b040280f07b5e0d28d997776
 } from "react-icons/fa";
 import BestRestaurants from "../componenet/Bestresturants"
 import Contact from "../componenet/Contact"
