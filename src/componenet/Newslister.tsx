@@ -26,4 +26,3 @@ const NewsletterSignup = () => {
 };
 
 export default NewsletterSignup;
-cd
