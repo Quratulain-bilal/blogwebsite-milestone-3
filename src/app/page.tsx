@@ -6,9 +6,7 @@ import {
   FaUtensils,
   FaGlassCheers,
   FaUtensilSpoon,
-  
   FaPhone,
-
 } from "react-icons/fa";
 import BestRestaurants from "../componenet/Bestresturants"
 import Contact from "../componenet/Contact"
